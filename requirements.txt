@@ -1,0 +1,4 @@
+biopython>=1.83
+numpy>=1.26,<3
+openmm>=8.1
+pandas>=2.1,<4

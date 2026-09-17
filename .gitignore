@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+*.preflight.tsv
+*_PF1/
+*_PF2/
+*_PF3/
+*_viz.3dmol.html
+
